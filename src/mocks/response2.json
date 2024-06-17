@@ -1,0 +1,76 @@
+{
+  "Search": [
+      {
+          "Title": "Avengers Grimm",
+          "Year": "2015",
+          "imdbID": "tt4296026",
+          "Type": "movie",
+          "Poster": "https://m.media-amazon.com/images/M/MV5BMTg5NDEzNDIyOV5BMl5BanBnXkFtZTgwODY3ODA5MzE@._V1_SX300.jpg"
+      },
+      {
+          "Title": "Lego Marvel Super Heroes: Avengers Reassembled",
+          "Year": "2015",
+          "imdbID": "tt5371572",
+          "Type": "movie",
+          "Poster": "https://m.media-amazon.com/images/M/MV5BZTAyMTVmNjMtMWQ4ZS00NzJmLWI1ODUtMjU5MWU2ZWU2NzYzXkEyXkFqcGdeQXVyMjQ0OTA1Nzc@._V1_SX300.jpg"
+      },
+      {
+          "Title": "Lego Marvel Avengers: Code Red",
+          "Year": "2023",
+          "imdbID": "tt28477867",
+          "Type": "movie",
+          "Poster": "https://m.media-amazon.com/images/M/MV5BYWFiNDBkZGUtZmQzZS00N2Q3LWI1MjItZmJiMjg3YTZjYjk4XkEyXkFqcGdeQXVyNTc4MjczMTM@._V1_SX300.jpg"
+      },
+      {
+          "Title": "Masked Avengers",
+          "Year": "1981",
+          "imdbID": "tt0082153",
+          "Type": "movie",
+          "Poster": "https://m.media-amazon.com/images/M/MV5BMTlmYjI4MDAtMThlZC00NmVlLWFiN2ItMTQzODM3ZjYyMjU1XkEyXkFqcGdeQXVyMjAyNTEwOQ@@._V1_SX300.jpg"
+      },
+      {
+          "Title": "Avengers of Justice: Farce Wars",
+          "Year": "2018",
+          "imdbID": "tt6172666",
+          "Type": "movie",
+          "Poster": "https://m.media-amazon.com/images/M/MV5BMWRkNTE4NjYtN2RhYi00ZjFhLTk5ZTgtYjk3ODZmZWM1NDMwXkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_SX300.jpg"
+      },
+      {
+          "Title": "The Avengers",
+          "Year": "1942",
+          "imdbID": "tt0034639",
+          "Type": "movie",
+          "Poster": "https://m.media-amazon.com/images/M/MV5BODY2NWFjZTUtNTU2Ni00NWU5LTgwNDItMTQwYzdhYTFhMzlhXkEyXkFqcGdeQXVyMDY4MzkyNw@@._V1_SX300.jpg"
+      },
+      {
+          "Title": "Avengers Grimm: Time Wars",
+          "Year": "2018",
+          "imdbID": "tt8159584",
+          "Type": "movie",
+          "Poster": "https://m.media-amazon.com/images/M/MV5BMDQwYTMwODItNWQ5Zi00ZTkyLWEzMDctOGM0NGVlOTg3MGRlXkEyXkFqcGdeQXVyMjM0ODM1NTE@._V1_SX300.jpg"
+      },
+      {
+          "Title": "Alien Avengers",
+          "Year": "1996",
+          "imdbID": "tt0115503",
+          "Type": "movie",
+          "Poster": "https://m.media-amazon.com/images/M/MV5BMjA1OTYyMTgzOV5BMl5BanBnXkFtZTcwMTgxNTEzMQ@@._V1_SX300.jpg"
+      },
+      {
+          "Title": "Teenage Alien Avengers",
+          "Year": "1999",
+          "imdbID": "tt0200421",
+          "Type": "movie",
+          "Poster": "https://m.media-amazon.com/images/M/MV5BNGY3ZGJiMjEtMWJhNS00YzBlLTlkYmItYzczZWEwOGQ2ODUwXkEyXkFqcGdeQXVyMTk5MjAyMjM@._V1_SX300.jpg"
+      },
+      {
+          "Title": "The Shaolin Avengers",
+          "Year": "1976",
+          "imdbID": "tt0074513",
+          "Type": "movie",
+          "Poster": "https://m.media-amazon.com/images/M/MV5BMzc3NWViYjktNDEwMy00NTY2LTkyMTMtMDZjYzUxMGRhYjg1XkEyXkFqcGdeQXVyNjUzNzQ4NDQ@._V1_SX300.jpg"
+      }
+  ],
+  "totalResults": "121",
+  "Response": "True"
+}
